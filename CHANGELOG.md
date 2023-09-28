@@ -1,5 +1,8 @@
 ## Changelog
 
+5.0.0
+- Matomo 5 compatibility
+
 2.08
 - translation-updates (issue #97)
 - new OK-icon with transparency (issue #98)
